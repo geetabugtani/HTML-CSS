@@ -1,0 +1,18 @@
+* {
+    margin: 20px 5vh 20px 5vh; 
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma;
+    font-size: 50px;
+    color: navy;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma;
+    font-weight: light;
+    font-size: 17px;  
+    line-height: 1.5em;
+    color:rgb(63, 61, 61)
+}
+
